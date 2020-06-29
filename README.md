@@ -1,5 +1,5 @@
-# nextcloud  / ubuntu 18
-18.0
+# nextcloud 18.0  / ubuntu 18
+
 
 
 cd /usr/local/src && apt install wget -y
